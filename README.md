@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Tic Tak Toe game
 - 🌱 I’m currently learning Python on Udemy
-- 👯 I’m looking to collaborate on some 
+- 👯 I’m looking to collaborate on some useful project to utilize my skills as a junior developer
 - 🤔 I’m looking for help to find my first job as a programmer
 - 💬 Ask me about airplanes
 - 📫 How to reach me: Telegram @Alexkeny
