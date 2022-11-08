@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Tic Tak Toe game
-- 🌱 I’m currently learning Python on Udemy
+- 🔭 I’m currently working on Black Jack game
+- 🌱 I’m currently learning Python on Udemy and Stepik
 - 👯 I’m looking to collaborate on some useful project to utilize my skills as a junior developer
 - 🤔 I’m looking for help to find my first job as a programmer
 - 💬 Ask me about airplanes
