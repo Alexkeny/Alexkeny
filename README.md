@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Black Jack game
+- 🔭 I’m currently working on Capstone Projects from Udemy and mini projects from Stepik
 - 🌱 I’m currently learning Python on Udemy and Stepik
 - 👯 I’m looking to collaborate on some useful project to utilize my skills as a junior developer
 - 🤔 I’m looking for help to find my first job as a programmer or test engineer
