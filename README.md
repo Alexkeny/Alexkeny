@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Capstone Projects from Udemy and mini projects from Stepik
-- 🌱 I’m currently learning Python on Udemy and Stepik
+- 🔭 I’m currently supporting Buslanes project. http://buslanes.ru/
+- 🌱 I’m currently learning Python and SQL on Stepik and SQL Academy.
 - 👯 I’m looking to collaborate on some useful project to utilize my skills as a junior developer
 - 🤔 I’m looking for help to find my first job as a junior programmer or test engineer
 - 💬 Ask me about airplanes
